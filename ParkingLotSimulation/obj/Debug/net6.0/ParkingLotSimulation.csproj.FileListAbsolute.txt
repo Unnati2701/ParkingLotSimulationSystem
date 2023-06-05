@@ -1,0 +1,15 @@
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\bin\Debug\net6.0\ParkingLotSimulation.exe
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\bin\Debug\net6.0\ParkingLotSimulation.deps.json
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\bin\Debug\net6.0\ParkingLotSimulation.runtimeconfig.json
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\bin\Debug\net6.0\ParkingLotSimulation.dll
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\bin\Debug\net6.0\ParkingLotSimulation.pdb
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\ParkingLotSimulation.csproj.AssemblyReference.cache
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\ParkingLotSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\ParkingLotSimulation.AssemblyInfoInputs.cache
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\ParkingLotSimulation.AssemblyInfo.cs
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\ParkingLotSimulation.csproj.CoreCompileInputs.cache
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\ParkingLotSimulation.dll
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\refint\ParkingLotSimulation.dll
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\ParkingLotSimulation.pdb
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\ParkingLotSimulation.genruntimeconfig.cache
+C:\Users\UNNATI\source\repos\ParkingLotSimulation\obj\Debug\net6.0\ref\ParkingLotSimulation.dll
